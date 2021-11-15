@@ -4,4 +4,4 @@ Description goes here.
 
 ## Subheader
 
-Add'l description.
+Additional description.
